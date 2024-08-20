@@ -1,2 +1,2 @@
-GET http://localhost:8080/api/produto
 
+GET https://maven-api-to-deploy.onrender.com
