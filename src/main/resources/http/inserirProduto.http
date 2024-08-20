@@ -1,0 +1,9 @@
+POST http://localhost:8080/api/produto
+Content-Type: application/json
+
+{
+  "descricao": "produto para exportacao",
+  "preco": 15,
+  "quantidadeEstoque": -3
+}
+

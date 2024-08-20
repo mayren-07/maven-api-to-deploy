@@ -1,0 +1,2 @@
+GET http://localhost:8080/api/produto/nome?nome=%25frango%25
+

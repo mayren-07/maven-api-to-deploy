@@ -1,0 +1,10 @@
+PUT http://localhost:8080/api/produto/
+Content-Type: application/json
+
+{
+  "nome": "nuggets",
+  "descricao": "produto para exportacao",
+  "preco": 10,
+  "quantidadeEstoque": 3
+}
+

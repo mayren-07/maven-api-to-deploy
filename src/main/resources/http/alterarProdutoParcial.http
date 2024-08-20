@@ -1,0 +1,7 @@
+PATCH http://localhost:8080/api/produto/21
+Content-Type: application/json
+
+{
+  "nome": "novo nome"
+}
+
